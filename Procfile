@@ -1,1 +1,1 @@
-web: gunicorn rental.wsgi
+web: gunicorn reservetion_project.wsgi
